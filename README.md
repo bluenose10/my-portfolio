@@ -1,2 +1,2 @@
-# my-portfolio
-This is my first serverless website AWS
+# Mark Moran Portfolio
+This is my professional portfolio. it uses AWS and React.js
